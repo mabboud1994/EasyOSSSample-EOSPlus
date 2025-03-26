@@ -1,0 +1,1 @@
+"path\to\UnrealEditor.exe" "path\to\EasyOSSTutorial.uproject" World2 -server -WINDOWED -ResY=450 -ResX=450 -epicapp="<Your trusted server artifact name>" -log -port=9000

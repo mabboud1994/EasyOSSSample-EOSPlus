@@ -1,0 +1,1 @@
+"path\to\UnrealEditor.exe" "path\to\EasyOSSTutorial.uproject" Startup -game -WINDOWED -ResY=450 -ResX=450
