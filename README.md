@@ -16,7 +16,7 @@
 5. Go to `Edit->Project Settings`, search for epic online services plugin then configure it according to you EOS Product configuration.
 6. Go the `Main menu->Game Instance` then open the game instance blueprint.
 7. Go the function `Get EOS Trusted Server Artifact`, then modify its output to fit your EOS trusted server artifact.
-8. Modify the client bat script by providing your you pathes.
+8. Modify the client bat script by providing your pathes.
 9. Modify the dedicated server bat script by providing you pathes and your epicapp.
 10. Open the steam client application and make sure that your are authenticated.
 10. Run the client bat script to test the game.
